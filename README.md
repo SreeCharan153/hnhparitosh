@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @hnhparitosh.
+- 👀 I’m interested in ML and Deep Learning.
+- 🌱 I’m currently working on a few fun projects.
+- 📫 My (simple) Website: https://hnhparitosh.github.io/

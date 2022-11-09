@@ -1,10 +1,4 @@
 <!--# Namaste 🙏-->
-<div align="center">
-<!-- <img src="https://miro.medium.com/max/1600/1*0KFB17_NGTPB0XWyc4BSgQ.jpeg" alt="Hello World"> -->
-<img height="300px" src="https://media1.tenor.com/images/25de5ae4b3a35de905166d6a8cc92411/tenor.gif?itemid=13245309" alt="Hello World">
- 
-</div>
-
 <br>
 
 <h1 align="center">Hello Folks 👋, I'm Paritosh Dahiya</h1>
@@ -15,13 +9,9 @@
 
 Hello, I am [Paritosh Dahiya](https://www.linkedin.com/in/paritoshdahiya/) and I love working on various new technologies and projects. 
 
-<img align="right" width="200px" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="programming meme">
- 
-<!--  <img align="right" width="150px" src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" alt="gif"> -->
- 
   <br><br>
  
- - 👋 Hi, I’m @hnhparitosh.
+- 👋 Hi, I’m @hnhparitosh.
 - 👀 I’m interested in ML and Deep Learning.
 - 🌱 I’m currently working on a few fun projects.
 - 📫 My Website (page 😅): https://hnhparitosh.github.io/

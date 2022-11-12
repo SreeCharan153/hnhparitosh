@@ -4,13 +4,9 @@
 <h1 align="center">Hello Folks 👋, I'm Paritosh Dahiya</h1>
 <h3 align="center">Software Developer and AI-ML Practioner</h3>
 <br>
-
-<br>
-
 Hello, I am [Paritosh Dahiya](https://www.linkedin.com/in/paritoshdahiya/) and I love working on various new technologies and projects. 
 
-  <br><br>
- 
+  <br>
 - 👋 Hi, I’m @hnhparitosh.
 - 👀 I’m interested in ML and Deep Learning.
 - 🌱 I’m currently working on a few fun projects.
@@ -20,27 +16,16 @@ Hello, I am [Paritosh Dahiya](https://www.linkedin.com/in/paritoshdahiya/) and I
 <br>
 
 <p align="center">
- <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="Github Readme Stats" />
+ <img width="50px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="Github Readme Stats" />
  <p align="center"> <img src="https://komarev.com/ghpvc/?username=hnhparitosh" alt="hnhparitosh"/> </p> 
 </p>
-
-
-<!--![](https://komarev.com/ghpvc/?username=hnhparitosh)-->
-
-
 <br>
 <p align="center">
-  
-<img src="https://metrics.lecoq.io/hnhparitosh" alt="Github Metrics">
-  
-  <br>
-  
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=hnhparitosh&theme=tokyonight&hide_border=true" alt="Github Streak Stats">
-  
 </p>
+<br>
 
-<br><br>
-### Tech Stack I am Familiar With:
+### Tech Stack I am Familiar With:  
 
 <p align="center">
 <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>

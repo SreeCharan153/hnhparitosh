@@ -4,9 +4,11 @@
 <h1 align="center">Hello Folks 👋, I'm Paritosh Dahiya</h1>
 <h3 align="center">Software Developer and AI-ML Practioner</h3>
 <br>
+
 Hello, I am [Paritosh Dahiya](https://www.linkedin.com/in/paritoshdahiya/) and I love working on various new technologies and projects. 
 
   <br>
+  
 - 👋 Hi, I’m @hnhparitosh.
 - 👀 I’m interested in ML and Deep Learning.
 - 🌱 I’m currently working on a few fun projects.

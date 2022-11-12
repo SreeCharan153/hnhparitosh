@@ -35,7 +35,7 @@ Hello, I am [Paritosh Dahiya](https://www.linkedin.com/in/paritoshdahiya/) and I
   
   <br>
   
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hnhparitosh&theme=algolia" alt="Github Streak Stats">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hnhparitosh&theme=tokyonight&hide_border=true" alt="Github Streak Stats">
   
 </p>
 
@@ -61,12 +61,13 @@ Hello, I am [Paritosh Dahiya](https://www.linkedin.com/in/paritoshdahiya/) and I
 # Github Stats 📈
 
 <a href="https://github.com/hnhparitosh">
-    <img src="https://github-readme-stats.vercel.app/api?username=hnhparitosh&count_private=true&show_icons=true&hide_border=true"
-                    width="51%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=hnhparitosh&count_private=true&show_icons=true&hide_border=true&theme=tokyonight"
+                    width="49%" />
 </a>
 <a href="https://github.com/hnhparitosh?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hnhparitosh&layout=compact&langs_count=10&hide_border=true"
-                    width="43%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hnhparitosh&layout=compact&theme=tokyonight&langs_count=10&hide_border=true"
+                    width="48 />
+  
 </a>
 
 <br><br>

@@ -58,7 +58,7 @@ Hello, I am [Paritosh Dahiya](https://www.linkedin.com/in/paritoshdahiya/) and I
 </a>
 
 <br><br>
-![Chaitanya](https://activity-graph.herokuapp.com/graph?username=hnhparitosh&theme=react-dark&show_icons=true&count_private=true&area=true&hide_border=true)
+![Paritosh](https://activity-graph.herokuapp.com/graph?username=hnhparitosh&theme=react-dark&show_icons=true&count_private=true&area=true&hide_border=true)
 <!--<img src="https://activity-graph.herokuapp.com/graph?username=hnhparitosh&show_icons=true&count_private=true&area=true&hide_border=true" /> -->
 
 <h3 align="center">Find me here:</h3>

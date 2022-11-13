@@ -1,13 +1,10 @@
-<!--# Namaste 🙏-->
-<br>
-
 <h1 align="center">Hello Folks 👋, I'm Paritosh Dahiya</h1>
 <h3 align="center">Software Developer and AI-ML Practioner</h3>
 <br>
 
 Hello, I am [Paritosh Dahiya](https://www.linkedin.com/in/paritoshdahiya/) and I love working on various new technologies and projects. 
 
-  <br>
+<br>
   
 - 👋 Hi, I’m @hnhparitosh.
 - 👀 I’m interested in ML and Deep Learning.
@@ -54,14 +51,16 @@ Hello, I am [Paritosh Dahiya](https://www.linkedin.com/in/paritoshdahiya/) and I
     <img src="https://github-readme-stats.vercel.app/api?username=hnhparitosh&count_private=true&show_icons=true&hide_border=true&theme=tokyonight"
          width="49%"/>
 </a>
+
 <a href="https://github.com/hnhparitosh?tab=repositories">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hnhparitosh&layout=compact&theme=tokyonight&langs_count=10&hide_border=true"
-                    width="48% /> 
+            width="48% />
 </a>
-
+                   
 <br><br>
                                                                                                                                            
 <h3 align="center">Find me here:</h3>
+                  
 <p align="center">
  <a href="https://www.leetcode.com/hnhparitosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Chaitanya31612/" height="30" width="40" /></a>
  <a href="https://www.linkedin.com/in/paritoshdahiya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="guptachaitanya" height="30" width="40" /></a>

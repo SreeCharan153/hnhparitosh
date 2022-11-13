@@ -60,7 +60,8 @@ Hello, I am [Paritosh Dahiya](https://www.linkedin.com/in/paritoshdahiya/) and I
 <br><br>
 ![Paritosh](https://activity-graph.herokuapp.com/graph?username=hnhparitosh&theme=react-dark&show_icons=true&count_private=true&area=true&hide_border=true)
 <!--<img src="https://activity-graph.herokuapp.com/graph?username=hnhparitosh&show_icons=true&count_private=true&area=true&hide_border=true" /> -->
-
+<br>
+                                                                                                                                            
 <h3 align="center">Find me here:</h3>
 <p align="center">
  <a href="https://www.leetcode.com/hnhparitosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Chaitanya31612/" height="30" width="40" /></a>

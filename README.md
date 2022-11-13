@@ -56,8 +56,7 @@ Hello, I am [Paritosh Dahiya](https://www.linkedin.com/in/paritoshdahiya/) and I
 </a>
 <a href="https://github.com/hnhparitosh?tab=repositories">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hnhparitosh&layout=compact&theme=tokyonight&langs_count=10&hide_border=true"
-                    width="48% />
-  
+                    width="48% /> 
 </a>
 
 <br><br>

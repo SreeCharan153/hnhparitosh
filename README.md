@@ -52,12 +52,15 @@ Hello, I am [Paritosh Dahiya](https://www.linkedin.com/in/paritoshdahiya/) and I
          width="49%"/>
 </a>
 
+
 <a href="https://github.com/hnhparitosh?tab=repositories">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hnhparitosh&layout=compact&theme=tokyonight&langs_count=10&hide_border=true"
             width="48% />
 </a>
                    
-<br><br>
+<br>
+                   
+                   <br>
                                                                                                                                            
 <h3 align="center">Find me here:</h3>
                   

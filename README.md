@@ -65,7 +65,7 @@ Hello, I am [Paritosh Dahiya](https://www.linkedin.com/in/paritoshdahiya/) and I
 <h3 align="center">Find me here:</h3>
                   
 <p align="center">
- <a href="https://www.leetcode.com/hnhparitosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Chaitanya31612/" height="30" width="40" /></a>
- <a href="https://www.linkedin.com/in/paritoshdahiya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="guptachaitanya" height="30" width="40" /></a>
-<a href="https://twitter.com/hnhparitosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Chaitan33456747" height="30" width="40" /></a>
+ <a href="https://www.leetcode.com/hnhparitosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hnhparitosh/" height="30" width="40" /></a>
+ <a href="https://www.linkedin.com/in/paritoshdahiya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paritoshdahiya" height="30" width="40" /></a>
+<a href="https://twitter.com/hnhparitosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hnhparitosh" height="30" width="40" /></a>
 </p>

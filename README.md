@@ -9,7 +9,7 @@ Hello, I am [Paritosh Dahiya](https://www.linkedin.com/in/paritoshdahiya/) and I
 - 👋 Hi, I’m @hnhparitosh.
 - 👀 I’m interested in ML and Deep Learning.
 - 🌱 I’m currently working on a few fun projects.
-- 📫 My Website (page 😅): https://hnhparitosh.github.io/
+- 📫 My Website (under update 😅): https://hnhparitosh.github.io/
 - 💬 Ask me about AI-ML Technologies
 - 😄 Pronouns: He/him
 <br>

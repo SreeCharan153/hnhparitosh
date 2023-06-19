@@ -40,7 +40,8 @@ Hello, I am [Paritosh Dahiya](https://www.linkedin.com/in/paritoshdahiya/) and I
 <img alt="Tensorflow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
 <img alt="Git" src="https://img.shields.io/badge/git%20-%23E34F26.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 <img alt="MySQL" src="https://img.shields.io/badge/mysql%20-%2300599C.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
-
+<img alt="Scikit Learn" src ="https://img.shields.io/badge/-scikit--learn-black?style=for-the-badge&logo=scikit-learn"/>
+  
 <br/>
 </p>
 
@@ -61,7 +62,7 @@ Hello, I am [Paritosh Dahiya](https://www.linkedin.com/in/paritoshdahiya/) and I
                    
 <br>
                    
-                   <br>
+<br>
                                                                                                                                            
 <h3 align="center">Find me here:</h3>
                   
